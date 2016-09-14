@@ -1,4 +1,8 @@
 
+## License
+* MIT  
+    * see LICENSE
+
 # Measureing environmental information
 
 This is the software base to measure the environmental information of agricultural fields.
